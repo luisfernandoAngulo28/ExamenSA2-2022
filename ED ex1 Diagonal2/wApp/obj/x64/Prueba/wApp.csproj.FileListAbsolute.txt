@@ -1,0 +1,11 @@
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\bin\x64\Prueba\wApp.exe
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\bin\x64\Prueba\cApp.dll
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\bin\x64\Prueba\cApp.pdb
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.fSpar.resources
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.menu.resources
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.Properties.Resources.resources
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.csproj.GenerateResource.cache
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.csproj.CoreCompileInputs.cache
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.csproj.CopyComplete
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.exe
+E:\Auxiliatura-ED1-SI\ExamenSA2-2022\ED ex1 Diagonal2\wApp\obj\x64\Prueba\wApp.csproj.AssemblyReference.cache
